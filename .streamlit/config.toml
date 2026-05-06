@@ -1,0 +1,10 @@
+# 미니멀 비즈니스 톤 (HTML 초안과 동일 컬러 토큰)
+[theme]
+primaryColor = "#2563EB"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F7F8FA"
+textColor = "#111827"
+font = "sans serif"
+
+[server]
+runOnSave = true
